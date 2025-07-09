@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "hellojavafx",
+      "request": "launch",
+      "mainClass": "src/hellojavafx",
+      "projectName": "javafx_20b0cf77"
+    },
+    {
+      "type": "java",
+      "name": "Launch HR Management App",
+      "request": "launch",
+      "mainClass": "src.HelloApplication",
+      "vmArgs": "--module-path \"C:/Users/jaspr/Desktop/javafx/lib\" --add-modules javafx.controls"
+    }
+  ]
+}
